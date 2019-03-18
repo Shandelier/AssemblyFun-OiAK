@@ -1,0 +1,5 @@
+my_cpuid posiada 3 "tryby" w których może zostać uruchomiona.
+aby zmienić tryb nalezy edytować plik lab4.c w linijce 3 ARG moze przyjąć wartość:
+0- program zacznie odliczanie, wykona pętle 10 razy nastepnie zwróci czas wykonywania
+1- program zacznie odliczanie, wyczysci rejestr eax, wykona polecenie cpuid i zwroci czas operacji
+2- program zacznie odliczanie i natychmiast zwroci czas miedzy wylowaniami.

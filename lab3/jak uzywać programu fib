@@ -1,0 +1,9 @@
+aby wybrać którą liczbę fibbonaciego wypisać należy wstawić odpowiednią wartość do linijki 4.
+
+aby uruchomić plik należy będąc w katalogu programu wprowadzić komendę `make`
+
+następnie korzystając z gdb podejrzeć wynik:
+>gdb fib
+gdb>b 50
+gdb>run
+gdb>x /256bx & fn1
