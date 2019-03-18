@@ -1,0 +1,37 @@
+W tej paczce znajdziesz programy odemnie i moich kolegów z roku 2018
+kurs OiAK, lab u Bawca.
+
+Ogólnie strategia na ten kurs jest taka by nie zrobić sobie braków na poczatku.
+Odrazu zacząć czytać pojedyńcze informacje w dokumentacji intela.
+polecam zrobić sobie jeden plik pdf ze wszystkich 3 tomów + ABI +
+jakiś breakdown komend i w nim robić ctrl + f
+
+na Fejsie znajdziesz grupę After Patronik Party, na której są wklejone przydatne
+linki i tipy, polecam sprawdzić na początku semestru.
+Raczej nikt ci tam nie odpisze bo grupka martwa
+
+Bardzo pomoże Ci kurs PTM a konkretnie laby bo popiszesz sobie trochę w asmie
+na płytkach 8051. Nikt Ci tego nie powie przy zapisach ale na PTM są
+2 nieoznczone potoki, jeden jest od airu a drugi dla inf. Różnią się tym
+że na air piszą w C te programy a na inf w ASM. Polecam zapisać się do Mazurkiewicza
+na wykład informatyki. Nie polecam zapisywać się na lab do Sterny,
+bo chujowo tłumaczy (zaleta taka ze nie sprawdza sprawozdań)
+
+Na OiAK Polecam zapisać się do Patronika na wykład bo łatwo zdać jego egzamin,
+na swoim projekcie jak go trochę pomęczysz to dostaniesz jakiś ciekawy temat.
+Ja dostałem przyśpieszanie sprzętowe algorytmu kryptografii krzywych eliptycznych.
+Laby u Bawca były ok. Nie znam nikogo lepszego, chyba że ktoś bardzo lubi
+wifu naszego kierunku czyli Postawkę. Ale wtedy dostajesz w pakiecie biernata i
+wpierdol na egzaminie (na 144 studentów pierwszy termin zdało 16 w tym roku)
+Gdybyś zapisał się do Patrona na projekt - polecam chodzić regularnie nawet jeśli
+nie masz konkretnych postępów, on lubi wiedzieć że myślisz o nim cały czas :3
+do bawca też wbijaj na konsultacje, ofc nie wyjaśni Ci nic bezpośrednio ale też
+dużo można zyskać z tego chodzenia. Bawiec będzie się bawił tym że np nie powie Ci
+nic o Little Endianie i funkcji bswap i będzie patrzył jak się męczysz xD
+ewentualnie nie powie Ci że w dokumentacji intela funkcje FPU mają składnie,
+która jest odwrotna w kierunku source->target niż w GASM xD
+
+Aha googlowanie rozwiązań do tego kursu jest trochę trudne, ale może pomoże Ci
+wiedza że ten asm nazywa się GASM albo AT&T.
+
+Powodzenia, jeśi bedziesz potrzebował jakichś opinii o prowadzących to pisz.
