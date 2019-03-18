@@ -1,4 +1,4 @@
-#AssemblyFun-OiAK
+# AssemblyFun-OiAK
 
 This repo contains the price for my tears, sweat, and blood. All of this assembler programs has been made with toil. Learning asssembly comes with a price. Be aware of this, You who seek wisdom.
 
